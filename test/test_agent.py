@@ -40,7 +40,6 @@ def test_minimax_agent():
     validFirstMovesP1 = [(0,0), (0,b2.dim-1), (b2.dim-1,0), (b2.dim-1,b2.dim-1)]
     assert agent1.get_position(b2, 1) in validFirstMovesP1
 
-
 '''
 @contextmanager
 def replace_stdin(target):
