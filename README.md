@@ -4,7 +4,7 @@ A project that explores the implementation of minimax search to play a simple Ti
 
 ## Project Description
 
-The project is organized into two primary tools. The first is an interactive console environment to play the game while the second is a simulation environment that allows for the comparison of different agents over a sample of trials. Each of these are provided by the 'TicTacToe.py' and 'Simulation.py' scripts, respectively.
+The project is organized into two primary tools. The first is an interactive console environment to play the game and the second is a simulation environment that allows for the comparison of different agents over a sample of trials. Each of these are provided by the 'TicTacToe.py' and 'Simulation.py' scripts, respectively.
 
 ## Interactive Console Environment
 
