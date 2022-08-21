@@ -63,8 +63,6 @@ class SimpleAgent(Player):
         else:
             return random.choice(board.open_positions())
 
-
-
 class MiniMaxAgent(Player):
 
     '''
