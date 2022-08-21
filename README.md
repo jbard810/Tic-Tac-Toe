@@ -2,8 +2,6 @@
 
 A project that explores the implementation of minimax search to play a simple Tic-Tac-Toe game that I designed during my time at the Jane Street AMP summer program in 2022. 
 
-# ***
-
 ## Project Description
 
 The project implements a simple Tic-tac-toe game that allows for inputs from the console or a wide array of agents with differing levels of skill.
