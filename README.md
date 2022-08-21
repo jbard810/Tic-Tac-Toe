@@ -2,7 +2,7 @@
 
 A project that explores the implementation of minimax search to play a simple Tic-Tac-Toe game that I designed during my time at the Jane Street AMP summer program in 2022. 
 
-_
+__
 
 ## Project Description
 
