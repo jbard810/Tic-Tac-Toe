@@ -12,4 +12,4 @@ To run the interactive console environment, one may download the contents of the
 
 ## Simulation Environment
 
-To use the tools within the simulation module and environment, one can download the contents of the repository, and then import the module into another python or jupyter notebook file of their choice. An example implementation of tools provided within the environment can be found within the script itself.
+To use the tools within the simulation module and environment, one can download the contents of the repository, and then import the module into another python or jupyter notebook file of their choice. An example implementation of tools is provided within the environment. More guidance can also be found within the script itself.
