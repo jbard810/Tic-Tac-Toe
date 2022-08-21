@@ -1,4 +1,4 @@
-# Tic-tac-toe Project
+# Tic-Tac-Toe Project
 
 A project that explores minimax search to play a simple Tic-tac-toe game that I designed from scratch during my time at the Jane Street AMP summer program in 2022.
 
